@@ -1,0 +1,27 @@
+node_modules
+.DS_Store
+.vscode
+dist-ssr
+*.local
+.eslintcache
+report.html
+dev
+prod
+stage
+yarn.lock
+pnpm-lock.yaml
+npm-debug.log*
+.pnpm-error.log*
+.pnpm-debug.log
+tests/**/coverage/
+
+# Editor directories and files
+.idea
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.vscode
+tsconfig.tsbuildinfo
+*.history
+dist/
